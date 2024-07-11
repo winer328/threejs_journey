@@ -1,0 +1,21 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "gsap": "^3.12.5",
+    "install": "^0.13.0",
+    "lil-gui": "^0.19.2",
+    "npm": "^10.8.1",
+    "three": "^0.166.1",
+    "vite": "^5.3.3"
+  }
+}
